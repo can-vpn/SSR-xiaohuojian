@@ -1,4 +1,4 @@
-# 小火箭订阅机场节点 ios小火箭官网下载 IOS小飞机使用教程
+# SSR机场节点订阅 ios小火箭官网下载 IOS小飞机使用教程
 
 Shadowrocket 是在 iOS 平台上的客户端软件，支持 Shadowsocks、ShadowsocksR 以及 VMess 协议。
 
